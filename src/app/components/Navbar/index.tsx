@@ -5,10 +5,10 @@ import { Logo } from '../logo';
 import { NavItems } from './Navitems';
 
 // combination of taiwlind and normal css
+
 const NavbarContainer = styled.div`
 
   min-height: 68px;
-
  ${tw`
     w-full
     max-w-screen-2xl
